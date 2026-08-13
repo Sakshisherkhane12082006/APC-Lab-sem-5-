@@ -1,3 +1,2 @@
-I AM the best
-because i believe in myself
-because i believe in myself
+Hello Python...
+New Line
