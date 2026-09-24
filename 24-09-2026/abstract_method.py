@@ -5,7 +5,7 @@ class Student(ABC):
         pass
 class CollegeStudent(Student):
     def study(self):
-        print("I am studying Python")
+        print("studying Python right now!!!")
 
 s = CollegeStudent()
 s.study()
