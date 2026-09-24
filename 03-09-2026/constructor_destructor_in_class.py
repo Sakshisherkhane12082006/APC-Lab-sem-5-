@@ -6,3 +6,5 @@ class Student:
 s=Student()
 print("students are good")
     
+    
+    

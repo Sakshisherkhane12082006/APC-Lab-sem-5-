@@ -5,3 +5,4 @@ class Child(Parent):
     pass
 obj=Child()
 obj.display()
+
