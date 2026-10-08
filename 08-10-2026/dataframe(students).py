@@ -4,3 +4,5 @@ data = pd.read_csv(r"C:\Users\Sakshi\Documents\APC Lab(sem-5)\08-10-2026\student
 
 print("DataFrame:")
 print(data)
+print("sakshi Manik Sherkhane")
+data=pd.read_csv("r'C:\us")
